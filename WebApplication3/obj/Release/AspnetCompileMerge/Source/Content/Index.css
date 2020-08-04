@@ -1,0 +1,71 @@
+﻿
+
+#section1 {
+    width:33%;
+    float:left;
+
+}
+
+
+#section2 {
+    width:33%;
+    float:left;
+
+}
+
+#section3 {
+    width:33%;
+    float:left;
+
+}
+
+
+#counter_wrapper ul > li {
+
+    list-style:none;
+    display:inline-block;
+    
+    width:50px;
+    height:50px;
+    border:1px solid white;
+    border-radius:50%;
+    color:white;
+   
+
+}
+
+
+
+/*===============980==================*/
+
+
+
+
+
+
+/*===============480==================*/
+
+@media only screen and (max-width:480px) 
+{
+
+    #section1 {
+    
+        float:none;
+        width:100%;
+    }
+
+     #section2 {
+    
+        float:none;
+        width:100%;
+    }
+
+
+      #section3 {
+    
+        float:none;
+        width:100%;
+    }
+
+
+}

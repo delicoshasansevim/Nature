@@ -1,0 +1,140 @@
+﻿
+@{
+    ViewBag.Title = "scroll_to";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div id="slider"></div>
+
+
+<h3 id="h3" style="position:absolute; left:400px; top:030px;"></h3>
+
+<button id="istanbul_btn">istanbul</button>
+
+<slider style="max-width:500px; max-height:1000px; "></slider>
+
+<div id="textarea" style="width:300px; height:200px; border:1px solid black; overflow:scroll">
+    
+    <img id="img1" src="~/Images/katze.jpg" style="position:absolute; left:500px; top:100px" />
+
+    Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
+    eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
+    At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren,
+    no sea takimata sanctus est Lorem ipsum dolor sit amet.
+    Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming
+    id quod mazim placerat facer possim assum. Lorem ipsum dolor sit amet, consectetuer adipiscing
+    elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut
+    wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip
+    ex ea commodo consequat.
+    Duis autem vel eusadipscing elitr, sed diam nonumy
+    eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
+    At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren,
+    no sea takimata sanctus est Lorem ipsum dolor sit amet.
+    
+    <div id="istanbul_div"><strong>Istanbul</strong></div>
+    
+    sadipscing elitr, sed diam nonumy
+    eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
+    At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren,
+    no sea takimata sanctus est Lorem ipsum dolor sit amet.
+    sadipscing elitr, sed diam nonumy
+    eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
+    At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren,
+    no sea takimata sanctus est Lorem ipsum dolor sit amet.
+    Duis autem vel eusadipscing elitr, sed diam nonumy
+    eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
+    At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren,
+    no sea takimata sanctus est Lorem ipsum dolor sit amet.
+    sadipscing elitr, sed diam nonumy
+    eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
+    At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren,
+    no sea takimata sanctus est Lorem ipsum dolor sit amet.
+
+
+
+    @*<a href="#" id="zumAnfang">zum Anfang</a>*@
+    <button id="Ankara_btn"><strong>Ankara</strong></button>
+
+</div>
+
+
+
+@section scripts
+{
+    
+    <script src="~/Scripts/jquery-1.10.2.js"></script>
+<script src="~/Content/theme/jquery-theme-frog-green/jquery-ui.js"></script>
+
+    <script type="text/javascript">
+
+        jQuery(document).ready(function () {
+
+            ////scrollTop:'0'
+            //$("#Ankara_btn").click(function(){
+
+            //    $("#textarea").animate({
+
+            //        scrollTop :'0'
+
+            //        });
+            //});
+           
+
+            //// scroll 
+            //$("#textarea").scroll(function () {
+
+            //    //var iScroll = $(this).scrollTop();
+
+            //    $('#h3').text($(this).scrollTop());
+
+            //});
+
+
+            ////animate() method
+            //$("#istanbul_btn").click(function () {
+
+            //    setInterval(function () {
+
+            //        $('#textarea').animate({
+
+            //            scrollTop: $("#istanbul_div").offset().top   // attribute change with animate() method
+
+            //        }, 4000, function () { alert("down") })
+
+            //        .animate({
+            //            scrollTop:0
+            //        }, 2000, function () { alert("up") } );
+
+            //    });
+
+
+
+                $("#textarea").scroll(function () {
+
+                    var iScrollTop = $(this).scrollTop();
+
+                    //$("#img1").animate({
+
+                    //    width: '1000px',
+                    //    height: '1000px',
+                                       
+                        
+                    //});
+
+
+                    $("#img1").css({ top :iScrollTop });
+
+
+                });
+
+       
+
+        
+
+
+        });
+
+
+    </script>
+
+}

@@ -1,0 +1,288 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> My ASP.NET Application</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+
+    <script src="~/Scripts/jquery-3.1.0.js"></script>
+    <link href="~/Content/main1.css" rel="stylesheet" />
+
+    <link href="~/Content/animate.css" rel="stylesheet" />
+    <script src="~/Scripts/jquery-cycle-plugin.js"></script>
+  
+        <script src="~/Content/theme/jquery-theme-frog-green/jquery-ui.js"></script>
+        <link href="~/Content/theme/jquery-theme-frog-green/jquery-ui.css" rel="stylesheet" />
+        <link href="~/Content/theme/jquery-theme-frog-green/jquery-ui.theme.css" rel="stylesheet" />
+
+
+
+    <script type="text/javascript">
+
+        jQuery(document).ready(function () {
+
+            //alert("This site is currently under construction ");
+
+            $("#btn_contact").click(function () {
+
+                $("#dialog1").dialog({
+
+                    show:
+                        {
+                            effect: 'fold',
+                            duration: 1000
+                        },
+                    hide:
+                        {
+                            effect: 'fade',
+                            duration: 1000
+                        },
+
+                    width: 850,
+                    height: 400,
+
+
+                });
+
+            });
+
+
+
+            setInterval(function () {
+
+                var today = new Date();
+                var hours = today.getHours();
+                var minutes = today.getMinutes();
+                var seconds = today.getSeconds();
+
+                if (hours < 10)
+                { hours = "0" + hours }
+
+                if (minutes < 10)
+                { minutes = "0" + minutes }
+
+                if (seconds < 10)
+                { seconds = "0" + seconds }
+
+                var time = hours + ":" + minutes + ":" + seconds;
+
+                //document.getElementById('myClock').innerHTML = "hello";
+                $("#myclock").html(time);
+                //document.write("hello write");
+
+            }, 1000);
+
+            $("#a1").click(function () {
+
+                alert('hello N@ture');
+            });
+
+
+            $("#slider2").cycle({
+
+                fx: 'fade',
+                speed: 1000
+            });
+
+
+
+     });  // en of jquery
+
+
+       
+
+     
+
+    </script>
+
+
+</head>
+<body>
+
+
+    <div id="slider2" style="position:fixed; z-index:-10; width:100%; height:100%">
+        <img src="~/Images/nature_background11.jpg" style="width:100%; height:100%;" />
+        <img src="~/Images/nature_background15.jpg" style="width:100%; height:100%;" />
+        <img src="~/Images/nature_background7.jpg" style="width:100%; height:100%;" />
+        <img src="~/Images/nature_background24.jpg" style="width:100%; height:100%;" />
+        <img src="~/Images/nature_background8.jpg" style="width:100%; height:100%;"/>
+    </div>
+
+
+    <div id="video-wrapper" style="position:fixed; z-index:-10; width:100%; height:100%">
+        <video autoplay="autoplay"  controls="controls" loop="loop" style="width:100%; height:100%">
+            <source src="~/Videos/Natur kurz trailer.mp4" type="video/mp4" />
+        </video>
+    </div>
+  
+
+    <div id="dialog1" style="display:none;">
+        <text>
+            Hasan Sevim
+            <br />
+            Dornwegshöh Str.60
+            <br />
+            64367 Mühltal <br />
+            E mail: <a href="mailto:delicos@web.de">send e mail</a>
+            <br />
+            Tel: 0177 899 4656
+            <br />
+            Programmer: C#, Asp.Net Mvc, Wpf, javascript, jquery, Html5, Css3
+        </text>
+    </div>
+
+
+    <header>
+        <div id="header-logo">
+            PROTECT our N@ture
+        </div>
+
+        <div id="header-menu">
+            @*<ul>
+                <li style="width:80px; height:80px; margin-right:10%; text-align:center; box-shadow:4px 5px 6px white;"><a href="#">Login</a>
+                <li style="width:80px; height:80px; margin-right:10%; text-align:center; box-shadow:4px 5px 6px white;"><a href="#">Register</a></li>
+
+            </ul>*@
+            
+            @Html.Partial("_LoginPartial")
+
+            <div id="mailIcon" style="position:absolute; z-index:999; left:88%; top:20px;"><a href="/Home/email_send"><img src="~/Images/email1.png" style="width:50px; height:50px; margin-top:10px;" /></a></div>
+        </div>
+    </header>
+
+    @*<div id="button_div">
+
+
+        <table>
+            <tr>
+                <td><a href="/Home/Index" class="ui-button button"> Nature</a> </td>
+            </tr>         
+
+            <tr>
+                <td><a href="/Home/worldwonders" class="ui-button button" >Nature wonders </a></td>
+            </tr>
+
+            <tr>
+                <td><a href="/Home/world_history" class="ui-button button"> History</a></td>
+            </tr>
+
+            <tr>
+                <td><a href="/Home/pollution" class="ui-button button">Pollution</a></td>
+            </tr>
+
+            <tr>
+                <td><a href="#dialog1" class="ui-button button" id="btn_contact"> Contact</a></td>
+            </tr>
+
+
+        </table>
+    </div>*@
+
+
+    <div id="button_div_980">
+
+
+        <ul>
+            <li>
+                <a href="/Home/Index" class="ui-button button"> Nature</a>
+            </li>
+
+            <li>
+                <a href="#" class="ui-button button"> Tutorial</a>
+            </li>
+
+            <li>
+                <a href="#" class="ui-button button" s> History</a>
+            </li>
+
+            <li>
+                <a href="#" class="ui-button button"> Impressum</a>
+            </li>
+
+            <li>
+                <a href="#" class="ui-button button"> Contact</a>
+            </li>
+
+        </ul>
+    </div>
+
+    <main>
+
+
+        <nav id="sidebar-left">
+
+
+            <table id="table1">
+                <tr>
+                    <td><a href="/Home/worldwonders" class="ui-button button">Nature wonders </a></td>
+                </tr>
+
+                <tr>
+                    <td><a href="/Home/Index" class="ui-button button"> Animals</a> </td>
+                </tr>
+
+                <tr>
+                    <td><a href="/Home/world_history" class="ui-button button"> History</a></td>
+                </tr>
+
+                <tr>
+                    <td><a href="/Home/pollution" class="ui-button button">Pollution</a></td>
+                </tr>
+
+                <tr>
+                    <td><a href="#dialog1" class="ui-button button" id="btn_contact"> Contact</a></td>
+                </tr>
+
+
+
+
+            </table>
+
+        </nav>
+
+        <nav id="sidebar-left-opacity">
+
+        </nav>
+
+        <section id="content">
+            @RenderBody()
+        </section>
+
+
+        <aside id="sidebar-right">
+           
+        </aside>
+
+
+    </main>
+
+    <footer>
+       <ul>
+           <li style="width:38%;line-height:70px;">
+          
+                   Microsoft All Rights &copy;Reserved Hasan Sevim @DateTime.Now.Year  
+             
+           </li>
+
+           <li style="width:50%; line-height:70px;">
+               <span id="span1" style="font-weight:bolder;">Written with C# ASP.NET Mvc, Net Framwork 4.6.1, Visual Studio 2015</span>
+
+           </li>
+         
+           <li style="width:10%">
+               <h3 id="myclock" style="text-align:center; line-height:30px; color:black; width:135px; height:45px; "></h3>
+           </li>
+
+       </ul>
+
+    </footer>
+
+   
+
+    @Scripts.Render("~/bundles/jquery")
+    @*@Scripts.Render("~/bundles/bootstrap")*@
+    @RenderSection("scripts", required: false)
+</body>
+</html>

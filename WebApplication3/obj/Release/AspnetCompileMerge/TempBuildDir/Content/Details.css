@@ -1,0 +1,56 @@
+﻿body {
+}
+
+
+
+ul > li {
+
+    list-style:none;
+    
+}
+
+
+
+
+#submit1 {
+
+    margin-left:35px;
+}
+
+
+#email_smartphone {
+
+    display:none;
+}
+
+
+
+
+/*==========================*/
+
+@media only screen and (min-width:480px) 
+{
+    #email_laptop {
+    
+        display:none;
+    }
+
+
+    #email_smartphone {
+ 
+        display:block;
+       
+    }
+
+    #form1 {
+    
+        background-color:antiquewhite
+    }
+}
+
+        
+            
+       
+    
+
+}

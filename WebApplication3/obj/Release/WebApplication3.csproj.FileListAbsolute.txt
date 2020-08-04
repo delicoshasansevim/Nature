@@ -1,0 +1,327 @@
+C:\VISUAL STUDIO-2015\MVC\WebApplication3\WebApplication3\bin\ApplicationInsights.config
+C:\VISUAL STUDIO-2015\MVC\WebApplication3\WebApplication3\bin\roslyn\csc.exe
+C:\VISUAL STUDIO-2015\MVC\WebApplication3\WebApplication3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\VISUAL STUDIO-2015\MVC\WebApplication3\WebApplication3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\VISUAL STUDIO-2015\MVC\WebApplication3\WebApplication3\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\VISUAL STUDIO-2015\MVC\WebApplication3\WebApplication3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\VISUAL STUDIO-2015\MVC\WebApplication3\WebApplication3\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\VISUAL STUDIO-2015\MVC\WebApplication3\WebApplication3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\VISUAL STUDIO-2015\MVC\WebApplication3\WebApplication3\bin\roslyn\System.Collections.Immutable.dll
+C:\VISUAL STUDIO-2015\MVC\WebApplication3\WebApplication3\bin\roslyn\System.Reflection.Metadata.dll
+C:\VISUAL STUDIO-2015\MVC\WebApplication3\WebApplication3\bin\roslyn\vbc.exe
+C:\VISUAL STUDIO-2015\MVC\WebApplication3\WebApplication3\bin\roslyn\VBCSCompiler.exe
+C:\VISUAL STUDIO-2015\MVC\WebApplication3\WebApplication3\bin\roslyn\VBCSCompiler.exe.config
+C:\VISUAL STUDIO-2015\MVC\WebApplication3\WebApplication3\bin\WebApplication3.dll.config
+C:\VISUAL STUDIO-2015\MVC\WebApplication3\WebApplication3\bin\WebApplication3.dll
+C:\VISUAL STUDIO-2015\MVC\WebApplication3\WebApplication3\bin\WebApplication3.pdb
+C:\VISUAL STUDIO-2015\MVC\WebApplication3\WebApplication3\bin\Antlr3.Runtime.dll
+C:\VISUAL STUDIO-2015\MVC\WebApplication3\WebApplication3\bin\EntityFramework.dll
+C:\VISUAL STUDIO-2015\MVC\WebApplication3\WebApplication3\bin\EntityFramework.SqlServer.dll
+C:\VISUAL STUDIO-2015\MVC\WebApplication3\WebApplication3\bin\Microsoft.AI.Agent.Intercept.dll
+C:\VISUAL STUDIO-2015\MVC\WebApplication3\WebApplication3\bin\Microsoft.AI.DependencyCollector.dll
+C:\VISUAL STUDIO-2015\MVC\WebApplication3\WebApplication3\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\VISUAL STUDIO-2015\MVC\WebApplication3\WebApplication3\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\VISUAL STUDIO-2015\MVC\WebApplication3\WebApplication3\bin\Microsoft.AI.Web.dll
+C:\VISUAL STUDIO-2015\MVC\WebApplication3\WebApplication3\bin\Microsoft.AI.WindowsServer.dll
+C:\VISUAL STUDIO-2015\MVC\WebApplication3\WebApplication3\bin\Microsoft.ApplicationInsights.dll
+C:\VISUAL STUDIO-2015\MVC\WebApplication3\WebApplication3\bin\Microsoft.AspNet.Identity.Core.dll
+C:\VISUAL STUDIO-2015\MVC\WebApplication3\WebApplication3\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\VISUAL STUDIO-2015\MVC\WebApplication3\WebApplication3\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\VISUAL STUDIO-2015\MVC\WebApplication3\WebApplication3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\VISUAL STUDIO-2015\MVC\WebApplication3\WebApplication3\bin\Microsoft.Owin.dll
+C:\VISUAL STUDIO-2015\MVC\WebApplication3\WebApplication3\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\VISUAL STUDIO-2015\MVC\WebApplication3\WebApplication3\bin\Microsoft.Owin.Security.Cookies.dll
+C:\VISUAL STUDIO-2015\MVC\WebApplication3\WebApplication3\bin\Microsoft.Owin.Security.dll
+C:\VISUAL STUDIO-2015\MVC\WebApplication3\WebApplication3\bin\Microsoft.Owin.Security.Facebook.dll
+C:\VISUAL STUDIO-2015\MVC\WebApplication3\WebApplication3\bin\Microsoft.Owin.Security.Google.dll
+C:\VISUAL STUDIO-2015\MVC\WebApplication3\WebApplication3\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\VISUAL STUDIO-2015\MVC\WebApplication3\WebApplication3\bin\Microsoft.Owin.Security.OAuth.dll
+C:\VISUAL STUDIO-2015\MVC\WebApplication3\WebApplication3\bin\Microsoft.Owin.Security.Twitter.dll
+C:\VISUAL STUDIO-2015\MVC\WebApplication3\WebApplication3\bin\Microsoft.Web.Infrastructure.dll
+C:\VISUAL STUDIO-2015\MVC\WebApplication3\WebApplication3\bin\Newtonsoft.Json.dll
+C:\VISUAL STUDIO-2015\MVC\WebApplication3\WebApplication3\bin\Owin.dll
+C:\VISUAL STUDIO-2015\MVC\WebApplication3\WebApplication3\bin\System.Web.Helpers.dll
+C:\VISUAL STUDIO-2015\MVC\WebApplication3\WebApplication3\bin\System.Web.Mvc.dll
+C:\VISUAL STUDIO-2015\MVC\WebApplication3\WebApplication3\bin\System.Web.Optimization.dll
+C:\VISUAL STUDIO-2015\MVC\WebApplication3\WebApplication3\bin\System.Web.Razor.dll
+C:\VISUAL STUDIO-2015\MVC\WebApplication3\WebApplication3\bin\System.Web.WebPages.Deployment.dll
+C:\VISUAL STUDIO-2015\MVC\WebApplication3\WebApplication3\bin\System.Web.WebPages.dll
+C:\VISUAL STUDIO-2015\MVC\WebApplication3\WebApplication3\bin\System.Web.WebPages.Razor.dll
+C:\VISUAL STUDIO-2015\MVC\WebApplication3\WebApplication3\bin\WebGrease.dll
+C:\VISUAL STUDIO-2015\MVC\WebApplication3\WebApplication3\bin\Microsoft.AI.DependencyCollector.xml
+C:\VISUAL STUDIO-2015\MVC\WebApplication3\WebApplication3\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\VISUAL STUDIO-2015\MVC\WebApplication3\WebApplication3\bin\Microsoft.AI.Web.xml
+C:\VISUAL STUDIO-2015\MVC\WebApplication3\WebApplication3\bin\Microsoft.AI.WindowsServer.xml
+C:\VISUAL STUDIO-2015\MVC\WebApplication3\WebApplication3\bin\Microsoft.ApplicationInsights.xml
+C:\VISUAL STUDIO-2015\MVC\WebApplication3\WebApplication3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\VISUAL STUDIO-2015\MVC\WebApplication3\WebApplication3\bin\System.Web.Helpers.xml
+C:\VISUAL STUDIO-2015\MVC\WebApplication3\WebApplication3\bin\System.Web.Mvc.xml
+C:\VISUAL STUDIO-2015\MVC\WebApplication3\WebApplication3\bin\System.Web.Optimization.xml
+C:\VISUAL STUDIO-2015\MVC\WebApplication3\WebApplication3\bin\System.Web.Razor.xml
+C:\VISUAL STUDIO-2015\MVC\WebApplication3\WebApplication3\bin\System.Web.WebPages.xml
+C:\VISUAL STUDIO-2015\MVC\WebApplication3\WebApplication3\bin\System.Web.WebPages.Deployment.xml
+C:\VISUAL STUDIO-2015\MVC\WebApplication3\WebApplication3\bin\System.Web.WebPages.Razor.xml
+C:\VISUAL STUDIO-2015\MVC\WebApplication3\WebApplication3\bin\Antlr3.Runtime.pdb
+C:\VISUAL STUDIO-2015\MVC\WebApplication3\WebApplication3\bin\Newtonsoft.Json.xml
+C:\VISUAL STUDIO-2015\MVC\WebApplication3\WebApplication3\bin\EntityFramework.xml
+C:\VISUAL STUDIO-2015\MVC\WebApplication3\WebApplication3\bin\EntityFramework.SqlServer.xml
+C:\VISUAL STUDIO-2015\MVC\WebApplication3\WebApplication3\bin\Microsoft.AspNet.Identity.Core.xml
+C:\VISUAL STUDIO-2015\MVC\WebApplication3\WebApplication3\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\VISUAL STUDIO-2015\MVC\WebApplication3\WebApplication3\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\VISUAL STUDIO-2015\MVC\WebApplication3\WebApplication3\bin\Microsoft.Owin.xml
+C:\VISUAL STUDIO-2015\MVC\WebApplication3\WebApplication3\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\VISUAL STUDIO-2015\MVC\WebApplication3\WebApplication3\bin\Microsoft.Owin.Security.xml
+C:\VISUAL STUDIO-2015\MVC\WebApplication3\WebApplication3\bin\Microsoft.Owin.Security.Facebook.xml
+C:\VISUAL STUDIO-2015\MVC\WebApplication3\WebApplication3\bin\Microsoft.Owin.Security.Cookies.xml
+C:\VISUAL STUDIO-2015\MVC\WebApplication3\WebApplication3\bin\Microsoft.Owin.Security.OAuth.xml
+C:\VISUAL STUDIO-2015\MVC\WebApplication3\WebApplication3\bin\Microsoft.Owin.Security.Google.xml
+C:\VISUAL STUDIO-2015\MVC\WebApplication3\WebApplication3\bin\Microsoft.Owin.Security.Twitter.xml
+C:\VISUAL STUDIO-2015\MVC\WebApplication3\WebApplication3\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\VISUAL STUDIO-2015\MVC\WebApplication3\WebApplication3\obj\Release\WebApplication3.dll
+C:\VISUAL STUDIO-2015\MVC\WebApplication3\WebApplication3\obj\Release\WebApplication3.pdb
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white\WebApplication3\bin\ApplicationInsights.config
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white\WebApplication3\bin\roslyn\csc.exe
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white\WebApplication3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white\WebApplication3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white\WebApplication3\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white\WebApplication3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white\WebApplication3\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white\WebApplication3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white\WebApplication3\bin\roslyn\System.Collections.Immutable.dll
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white\WebApplication3\bin\roslyn\System.Reflection.Metadata.dll
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white\WebApplication3\bin\roslyn\vbc.exe
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white\WebApplication3\bin\roslyn\VBCSCompiler.exe
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white\WebApplication3\bin\roslyn\VBCSCompiler.exe.config
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white\WebApplication3\bin\WebApplication3.dll.config
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white\WebApplication3\bin\WebApplication3.dll
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white\WebApplication3\bin\WebApplication3.pdb
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white\WebApplication3\bin\Antlr3.Runtime.dll
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white\WebApplication3\bin\EntityFramework.dll
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white\WebApplication3\bin\EntityFramework.SqlServer.dll
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white\WebApplication3\bin\FoolproofValidation.dll
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white\WebApplication3\bin\Microsoft.AI.Agent.Intercept.dll
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white\WebApplication3\bin\Microsoft.AI.DependencyCollector.dll
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white\WebApplication3\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white\WebApplication3\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white\WebApplication3\bin\Microsoft.AI.Web.dll
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white\WebApplication3\bin\Microsoft.AI.WindowsServer.dll
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white\WebApplication3\bin\Microsoft.ApplicationInsights.dll
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white\WebApplication3\bin\Microsoft.AspNet.Identity.Core.dll
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white\WebApplication3\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white\WebApplication3\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white\WebApplication3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white\WebApplication3\bin\Microsoft.Owin.dll
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white\WebApplication3\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white\WebApplication3\bin\Microsoft.Owin.Security.Cookies.dll
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white\WebApplication3\bin\Microsoft.Owin.Security.dll
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white\WebApplication3\bin\Microsoft.Owin.Security.Facebook.dll
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white\WebApplication3\bin\Microsoft.Owin.Security.Google.dll
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white\WebApplication3\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white\WebApplication3\bin\Microsoft.Owin.Security.OAuth.dll
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white\WebApplication3\bin\Microsoft.Owin.Security.Twitter.dll
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white\WebApplication3\bin\Microsoft.Web.Infrastructure.dll
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white\WebApplication3\bin\Newtonsoft.Json.dll
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white\WebApplication3\bin\Owin.dll
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white\WebApplication3\bin\System.Web.Helpers.dll
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white\WebApplication3\bin\System.Web.Mvc.dll
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white\WebApplication3\bin\System.Web.Optimization.dll
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white\WebApplication3\bin\System.Web.Razor.dll
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white\WebApplication3\bin\System.Web.WebPages.Deployment.dll
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white\WebApplication3\bin\System.Web.WebPages.dll
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white\WebApplication3\bin\System.Web.WebPages.Razor.dll
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white\WebApplication3\bin\WebGrease.dll
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white\WebApplication3\bin\Microsoft.AI.DependencyCollector.xml
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white\WebApplication3\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white\WebApplication3\bin\Microsoft.AI.Web.xml
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white\WebApplication3\bin\Microsoft.AI.WindowsServer.xml
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white\WebApplication3\bin\Microsoft.ApplicationInsights.xml
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white\WebApplication3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white\WebApplication3\bin\System.Web.Helpers.xml
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white\WebApplication3\bin\System.Web.Mvc.xml
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white\WebApplication3\bin\System.Web.Optimization.xml
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white\WebApplication3\bin\System.Web.Razor.xml
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white\WebApplication3\bin\System.Web.WebPages.xml
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white\WebApplication3\bin\System.Web.WebPages.Deployment.xml
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white\WebApplication3\bin\System.Web.WebPages.Razor.xml
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white\WebApplication3\bin\Antlr3.Runtime.pdb
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white\WebApplication3\bin\Newtonsoft.Json.xml
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white\WebApplication3\bin\EntityFramework.xml
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white\WebApplication3\bin\EntityFramework.SqlServer.xml
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white\WebApplication3\bin\Microsoft.AspNet.Identity.Core.xml
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white\WebApplication3\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white\WebApplication3\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white\WebApplication3\bin\Microsoft.Owin.xml
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white\WebApplication3\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white\WebApplication3\bin\Microsoft.Owin.Security.xml
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white\WebApplication3\bin\Microsoft.Owin.Security.Facebook.xml
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white\WebApplication3\bin\Microsoft.Owin.Security.Cookies.xml
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white\WebApplication3\bin\Microsoft.Owin.Security.OAuth.xml
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white\WebApplication3\bin\Microsoft.Owin.Security.Google.xml
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white\WebApplication3\bin\Microsoft.Owin.Security.Twitter.xml
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white\WebApplication3\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white\WebApplication3\obj\Release\WebApplication3.dll
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white\WebApplication3\obj\Release\WebApplication3.pdb
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Kopie (4)\WebApplication3\bin\ApplicationInsights.config
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Kopie (4)\WebApplication3\bin\roslyn\csc.exe
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Kopie (4)\WebApplication3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Kopie (4)\WebApplication3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Kopie (4)\WebApplication3\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Kopie (4)\WebApplication3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Kopie (4)\WebApplication3\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Kopie (4)\WebApplication3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Kopie (4)\WebApplication3\bin\roslyn\System.Collections.Immutable.dll
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Kopie (4)\WebApplication3\bin\roslyn\System.Reflection.Metadata.dll
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Kopie (4)\WebApplication3\bin\roslyn\vbc.exe
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Kopie (4)\WebApplication3\bin\roslyn\VBCSCompiler.exe
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Kopie (4)\WebApplication3\bin\roslyn\VBCSCompiler.exe.config
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Kopie (4)\WebApplication3\bin\WebApplication3.dll.config
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Kopie (4)\WebApplication3\bin\WebApplication3.dll
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Kopie (4)\WebApplication3\bin\WebApplication3.pdb
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Kopie (4)\WebApplication3\bin\Antlr3.Runtime.dll
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Kopie (4)\WebApplication3\bin\EntityFramework.dll
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Kopie (4)\WebApplication3\bin\EntityFramework.SqlServer.dll
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Kopie (4)\WebApplication3\bin\FoolproofValidation.dll
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Kopie (4)\WebApplication3\bin\Microsoft.AI.Agent.Intercept.dll
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Kopie (4)\WebApplication3\bin\Microsoft.AI.DependencyCollector.dll
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Kopie (4)\WebApplication3\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Kopie (4)\WebApplication3\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Kopie (4)\WebApplication3\bin\Microsoft.AI.Web.dll
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Kopie (4)\WebApplication3\bin\Microsoft.AI.WindowsServer.dll
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Kopie (4)\WebApplication3\bin\Microsoft.ApplicationInsights.dll
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Kopie (4)\WebApplication3\bin\Microsoft.AspNet.Identity.Core.dll
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Kopie (4)\WebApplication3\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Kopie (4)\WebApplication3\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Kopie (4)\WebApplication3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Kopie (4)\WebApplication3\bin\Microsoft.Owin.dll
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Kopie (4)\WebApplication3\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Kopie (4)\WebApplication3\bin\Microsoft.Owin.Security.Cookies.dll
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Kopie (4)\WebApplication3\bin\Microsoft.Owin.Security.dll
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Kopie (4)\WebApplication3\bin\Microsoft.Owin.Security.Facebook.dll
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Kopie (4)\WebApplication3\bin\Microsoft.Owin.Security.Google.dll
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Kopie (4)\WebApplication3\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Kopie (4)\WebApplication3\bin\Microsoft.Owin.Security.OAuth.dll
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Kopie (4)\WebApplication3\bin\Microsoft.Owin.Security.Twitter.dll
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Kopie (4)\WebApplication3\bin\Microsoft.Web.Infrastructure.dll
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Kopie (4)\WebApplication3\bin\Newtonsoft.Json.dll
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Kopie (4)\WebApplication3\bin\Owin.dll
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Kopie (4)\WebApplication3\bin\System.Web.Helpers.dll
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Kopie (4)\WebApplication3\bin\System.Web.Mvc.dll
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Kopie (4)\WebApplication3\bin\System.Web.Optimization.dll
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Kopie (4)\WebApplication3\bin\System.Web.Razor.dll
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Kopie (4)\WebApplication3\bin\System.Web.WebPages.Deployment.dll
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Kopie (4)\WebApplication3\bin\System.Web.WebPages.dll
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Kopie (4)\WebApplication3\bin\System.Web.WebPages.Razor.dll
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Kopie (4)\WebApplication3\bin\WebGrease.dll
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Kopie (4)\WebApplication3\bin\Microsoft.AI.DependencyCollector.xml
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Kopie (4)\WebApplication3\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Kopie (4)\WebApplication3\bin\Microsoft.AI.Web.xml
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Kopie (4)\WebApplication3\bin\Microsoft.AI.WindowsServer.xml
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Kopie (4)\WebApplication3\bin\Microsoft.ApplicationInsights.xml
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Kopie (4)\WebApplication3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Kopie (4)\WebApplication3\bin\System.Web.Helpers.xml
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Kopie (4)\WebApplication3\bin\System.Web.Mvc.xml
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Kopie (4)\WebApplication3\bin\System.Web.Optimization.xml
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Kopie (4)\WebApplication3\bin\System.Web.Razor.xml
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Kopie (4)\WebApplication3\bin\System.Web.WebPages.xml
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Kopie (4)\WebApplication3\bin\System.Web.WebPages.Deployment.xml
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Kopie (4)\WebApplication3\bin\System.Web.WebPages.Razor.xml
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Kopie (4)\WebApplication3\bin\Antlr3.Runtime.pdb
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Kopie (4)\WebApplication3\bin\Newtonsoft.Json.xml
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Kopie (4)\WebApplication3\bin\EntityFramework.xml
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Kopie (4)\WebApplication3\bin\EntityFramework.SqlServer.xml
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Kopie (4)\WebApplication3\bin\Microsoft.AspNet.Identity.Core.xml
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Kopie (4)\WebApplication3\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Kopie (4)\WebApplication3\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Kopie (4)\WebApplication3\bin\Microsoft.Owin.xml
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Kopie (4)\WebApplication3\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Kopie (4)\WebApplication3\bin\Microsoft.Owin.Security.xml
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Kopie (4)\WebApplication3\bin\Microsoft.Owin.Security.Facebook.xml
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Kopie (4)\WebApplication3\bin\Microsoft.Owin.Security.Cookies.xml
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Kopie (4)\WebApplication3\bin\Microsoft.Owin.Security.OAuth.xml
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Kopie (4)\WebApplication3\bin\Microsoft.Owin.Security.Google.xml
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Kopie (4)\WebApplication3\bin\Microsoft.Owin.Security.Twitter.xml
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Kopie (4)\WebApplication3\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Kopie (4)\WebApplication3\obj\Release\WebApplication3.dll
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Kopie (4)\WebApplication3\obj\Release\WebApplication3.pdb
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Test -2\WebApplication3\bin\ApplicationInsights.config
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Test -2\WebApplication3\bin\roslyn\csc.exe
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Test -2\WebApplication3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Test -2\WebApplication3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Test -2\WebApplication3\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Test -2\WebApplication3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Test -2\WebApplication3\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Test -2\WebApplication3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Test -2\WebApplication3\bin\roslyn\System.Collections.Immutable.dll
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Test -2\WebApplication3\bin\roslyn\System.Reflection.Metadata.dll
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Test -2\WebApplication3\bin\roslyn\vbc.exe
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Test -2\WebApplication3\bin\roslyn\VBCSCompiler.exe
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Test -2\WebApplication3\bin\roslyn\VBCSCompiler.exe.config
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Test -2\WebApplication3\bin\WebApplication3.dll.config
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Test -2\WebApplication3\bin\WebApplication3.dll
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Test -2\WebApplication3\bin\WebApplication3.pdb
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Test -2\WebApplication3\bin\Antlr3.Runtime.dll
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Test -2\WebApplication3\bin\EntityFramework.dll
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Test -2\WebApplication3\bin\EntityFramework.SqlServer.dll
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Test -2\WebApplication3\bin\FoolproofValidation.dll
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Test -2\WebApplication3\bin\Microsoft.AI.Agent.Intercept.dll
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Test -2\WebApplication3\bin\Microsoft.AI.DependencyCollector.dll
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Test -2\WebApplication3\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Test -2\WebApplication3\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Test -2\WebApplication3\bin\Microsoft.AI.Web.dll
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Test -2\WebApplication3\bin\Microsoft.AI.WindowsServer.dll
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Test -2\WebApplication3\bin\Microsoft.ApplicationInsights.dll
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Test -2\WebApplication3\bin\Microsoft.AspNet.Identity.Core.dll
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Test -2\WebApplication3\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Test -2\WebApplication3\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Test -2\WebApplication3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Test -2\WebApplication3\bin\Microsoft.Owin.dll
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Test -2\WebApplication3\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Test -2\WebApplication3\bin\Microsoft.Owin.Security.Cookies.dll
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Test -2\WebApplication3\bin\Microsoft.Owin.Security.dll
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Test -2\WebApplication3\bin\Microsoft.Owin.Security.Facebook.dll
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Test -2\WebApplication3\bin\Microsoft.Owin.Security.Google.dll
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Test -2\WebApplication3\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Test -2\WebApplication3\bin\Microsoft.Owin.Security.OAuth.dll
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Test -2\WebApplication3\bin\Microsoft.Owin.Security.Twitter.dll
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Test -2\WebApplication3\bin\Microsoft.Web.Infrastructure.dll
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Test -2\WebApplication3\bin\Newtonsoft.Json.dll
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Test -2\WebApplication3\bin\Owin.dll
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Test -2\WebApplication3\bin\System.Web.Helpers.dll
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Test -2\WebApplication3\bin\System.Web.Mvc.dll
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Test -2\WebApplication3\bin\System.Web.Optimization.dll
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Test -2\WebApplication3\bin\System.Web.Razor.dll
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Test -2\WebApplication3\bin\System.Web.WebPages.Deployment.dll
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Test -2\WebApplication3\bin\System.Web.WebPages.dll
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Test -2\WebApplication3\bin\System.Web.WebPages.Razor.dll
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Test -2\WebApplication3\bin\WebGrease.dll
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Test -2\WebApplication3\bin\Microsoft.AI.DependencyCollector.xml
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Test -2\WebApplication3\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Test -2\WebApplication3\bin\Microsoft.AI.Web.xml
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Test -2\WebApplication3\bin\Microsoft.AI.WindowsServer.xml
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Test -2\WebApplication3\bin\Microsoft.ApplicationInsights.xml
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Test -2\WebApplication3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Test -2\WebApplication3\bin\System.Web.Helpers.xml
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Test -2\WebApplication3\bin\System.Web.Mvc.xml
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Test -2\WebApplication3\bin\System.Web.Optimization.xml
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Test -2\WebApplication3\bin\System.Web.Razor.xml
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Test -2\WebApplication3\bin\System.Web.WebPages.xml
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Test -2\WebApplication3\bin\System.Web.WebPages.Deployment.xml
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Test -2\WebApplication3\bin\System.Web.WebPages.Razor.xml
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Test -2\WebApplication3\bin\Antlr3.Runtime.pdb
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Test -2\WebApplication3\bin\Newtonsoft.Json.xml
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Test -2\WebApplication3\bin\EntityFramework.xml
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Test -2\WebApplication3\bin\EntityFramework.SqlServer.xml
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Test -2\WebApplication3\bin\Microsoft.AspNet.Identity.Core.xml
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Test -2\WebApplication3\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Test -2\WebApplication3\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Test -2\WebApplication3\bin\Microsoft.Owin.xml
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Test -2\WebApplication3\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Test -2\WebApplication3\bin\Microsoft.Owin.Security.xml
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Test -2\WebApplication3\bin\Microsoft.Owin.Security.Facebook.xml
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Test -2\WebApplication3\bin\Microsoft.Owin.Security.Cookies.xml
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Test -2\WebApplication3\bin\Microsoft.Owin.Security.OAuth.xml
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Test -2\WebApplication3\bin\Microsoft.Owin.Security.Google.xml
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Test -2\WebApplication3\bin\Microsoft.Owin.Security.Twitter.xml
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Test -2\WebApplication3\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Test -2\WebApplication3\obj\Release\WebApplication3.dll
+C:\VISUAL STUDIO-2015\MVC\nature1 -blue-white - Test -2\WebApplication3\obj\Release\WebApplication3.pdb
