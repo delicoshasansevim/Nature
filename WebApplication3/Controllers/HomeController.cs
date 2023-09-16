@@ -16,7 +16,7 @@ namespace WebApplication3.Controllers
         [AllowAnonymous]
         public ActionResult Index()
         {
-            ViewData["message"] = 123;
+            ViewData["message"] = 12300;
             return View();
         }
 
